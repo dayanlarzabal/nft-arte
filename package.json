@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
-    "ethers": "^5.5.4",
+    "ethers": "^6.13.0",
     "nuxt-icons": "^3.0.0",
     "vue3-toastify": "^0.2.1"
   }
